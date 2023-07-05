@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeamanwal
 - 👀 I’m interested in... Competitive Programing, C++, DSA, PYTHON, JAVASCRIPT.  
-- 🌱 I’m currently learning... Web Development, DSA.
+- 🌱 I’m a full-stack Django Developer.
 - 💞️ I’m looking to collaborate on ...GSOC
 - 📫 How to reach me ...LinkediIn @ www.linkedin.com/in/aman-agarwal2003
 
